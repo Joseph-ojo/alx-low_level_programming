@@ -18,6 +18,3 @@ void print_chessboard(char (*a)[8])
 		}
 	}
 }
-© 2022 GitHub, Inc.
-Terms
-Priv
